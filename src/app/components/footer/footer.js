@@ -89,7 +89,7 @@ export default function Footer() {
                         <Image
                             className="img-fluid"
                             src="/images/logo.png"
-                            alt="gold365 Logo"
+                            alt="Gold365"
                             width={170}
                             height={43}      
                             />
@@ -98,9 +98,9 @@ export default function Footer() {
                   </div>
                   <div className="copyright">
                     <p>
-                      © 2024 gold365.org.in – All rights reserved
+                      ©2025 gold365.org.in – All rights reserved
                       <br /> Gold365 is a licensed gaming company under the regulations
-                      of Curacao and is certified to operate globally
+                      of Curacao and is certified to operate globally.
                     </p>
                   </div>
                 </div>
@@ -113,7 +113,7 @@ export default function Footer() {
             <Image
                             className="img-fluid"
                             src="/images/wpi.png"
-                            alt="gold365 Logo"
+                            alt="Gold365 Login ID"
                             width={50}
                             height={50}      
                             />
