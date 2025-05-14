@@ -20,14 +20,18 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+
         <link rel="icon" href="images/g-favicon.png" type="image/png"></link>
 	    	<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
 		    <link rel="stylesheet" href="css/all.css"  />
         <link rel="stylesheet" href="css/style.css" type="text/css" />
+        
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
         <link rel="stylesheet" href="css/frontend.min.css?ver=3.24.4" type="text/css" />
 		    <link rel="stylesheet" href="css/owl.carousel.min.css" />
 		
+        <meta name="description" content="" />
+
     <!-- Meta Tags -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
