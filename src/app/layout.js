@@ -20,17 +20,42 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        
         <link rel="icon" href="images/g-favicon.png" type="image/png"></link>
 	    	<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
 		    <link rel="stylesheet" href="css/all.css"  />
         <link rel="stylesheet" href="css/style.css" type="text/css" />
-        
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
         <link rel="stylesheet" href="css/frontend.min.css?ver=3.24.4" type="text/css" />
 		    <link rel="stylesheet" href="css/owl.carousel.min.css" />
 		
-        <meta name="description" content="" />
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+    <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+    <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+    <title>Welcome to gold365</title>
+    <meta name="title" content="Welcome to gold365"/>
+    <meta name="description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now."/>
+    <meta name="keywords" content="welcome to gold365, gold365, gold365 login, gold365 login ID, gold365 ID, gold365 login ID and password, gold365 download apk, gold365 green, gold365 registration, gold365.green login link"/>
+    <meta name="author" content="Gold365"/>
+    <meta name="publisher" content="Gold365">
+    <meta http-equiv="Content-Language" content="en-IN">
+    <meta name="reply-to" content="support@gold365.org.in"/>
+    <meta name="copyright" content="https://www.gold365.org.in"/>
+    <link rel="canonical" href="https://www.gold365.org.in"/>
+    <link rel="alternate" type="application/rss+xml" href="https://www.gold365.org.in/sitemap.xml" />
+    <link rel="alternate" type="application/rss+xml" href="https://www.gold365.org.in/images_sitemap.xml" />
+
+    <!-- Open Graph meta tags for Gold365 -->
+    <meta property="og:url" content="https://www.gold365.org.in/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Welcome to Gold365">
+    <meta property="og:description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now.">
+    <meta property="og:image" content="https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75">
+    <meta property="og:logo" content="https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75">
+
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
