@@ -24,9 +24,9 @@ import Footer from "./components/footer/footer";
 export default function Home() {
   return (
     <div>
-    <title>Gold365 Win</title>
-    <meta name="title" content="Gold365 Win" />
-    <meta name="description" content="Gaming platforms like CricAdda are the most popular in India for betting, live casino, and fantasy games. There are over 5000+ sports games available every day on CricAdda.com. Log in to your CricAdda account now." />
+    <title>Welcome to gold365</title>
+    <meta name="title" content="Welcome to gold365" />
+    <meta name="description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now." />
    
     <div className={styles.pages}>
       <main className={styles.mains}>
