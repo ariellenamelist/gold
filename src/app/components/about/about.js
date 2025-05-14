@@ -10,7 +10,7 @@ export default function About() {
                 <div className="col-12">
                     <div className="left text-center">
                     <h2 className="elementor-heading-title elementor-size-default">
-                        About Cricbet99
+                        A little bit about Gold365
                     </h2>
                     <br />
                     </div>
@@ -23,7 +23,7 @@ export default function About() {
                         </tr>
                         <tr>
                             <td>Company</td>
-                            <td>Cricbet99</td>
+                            <td>Gold365</td>
                         </tr>
                         <tr>
                             <td>License</td>
