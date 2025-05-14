@@ -117,7 +117,7 @@ export default function Footer() {
                             width={50}
                             height={50}      
                             />
-                            <span>Play and Win. Get a New Id <br/> instantly over WhatsApp</span>
+                            <span>Play and Win. Get a New ID <br/> instantly over WhatsApp</span>
             </a>
           </div>
         </div>
