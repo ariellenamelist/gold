@@ -216,7 +216,7 @@ export default function Ninesteps() {
         href="#"
       >
         <span className="elementor-button-content-wrapper">
-          <span className="elementor-button-text">Get Your ID Now</span>
+          <span className="elementor-button-text">Let's Play & Win Real Money</span>
         </span>
       </a>
     </div>
