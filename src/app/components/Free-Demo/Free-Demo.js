@@ -14,7 +14,7 @@ export default function FreeDemo() {
                         <Image
                             className="img-fluid"
                             src="/images/Gold365-app-download-882x1024.webp"
-                            alt="gold365 download app" 
+                            alt="Welcome to Gold365" 
                             width={555}
                             height={644}      
                             />
@@ -51,7 +51,7 @@ export default function FreeDemo() {
         href="#"
       >
         <span className="elementor-button-content-wrapper">
-          <span className="elementor-button-text">Get Your ID Now</span>
+          <span className="elementor-button-text">Get Gold365 Demo Login ID</span>
         </span>
       </a>
     </div>
