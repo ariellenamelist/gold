@@ -48,7 +48,7 @@ export default function RecoverCutomerID() {
         href="#"
       >
         <span className="elementor-button-content-wrapper">
-          <span className="elementor-button-text">Get Your ID Now</span>
+          <span className="elementor-button-text">Get Forgotten Gold365 Customer ID</span>
         </span>
       </a>
     </div>
