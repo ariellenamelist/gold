@@ -47,7 +47,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-01.webp"
-                    alt="Slide 1"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -56,7 +56,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-02.webp"
-                    alt="Slide 2"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -65,7 +65,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-03.webp"
-                    alt="Slide 3"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -74,7 +74,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-04.webp"
-                    alt="Slide 4"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -83,7 +83,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-06.webp"
-                    alt="Slide 6"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -92,7 +92,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-05.webp"
-                    alt="Slide 5"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -101,7 +101,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-06.webp"
-                    alt="Slide 6"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -110,7 +110,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-07.webp"
-                    alt="Slide 7"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -119,7 +119,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-08.webp"
-                    alt="Slide 8"
+                    alt="Welcome to Gold365"
                     width={174}
                     height={235}      
                     />
@@ -191,7 +191,7 @@ export default function Fantasygames() {
                         <Image
                           className="img-fluid"
                           src="/images/slot_game-1.webp"
-                          alt="Gold365"
+                          alt="Gold365 Login ID"
                           width={360}
                           height={240}      
                           />
@@ -213,7 +213,7 @@ export default function Fantasygames() {
                       <Image
                           className="img-fluid"
                           src="/images/slot_game-2.webp"
-                          alt="Gold365"
+                          alt="Gold365 Login ID"
                           width={360}
                           height={240}      
                           />
@@ -234,7 +234,7 @@ export default function Fantasygames() {
                       <Image
                           className="img-fluid"
                           src="/images/slot_game-3.webp"
-                          alt="Gold365"
+                          alt="Gold365 Login ID"
                           width={360}
                           height={240}      
                           />                       
