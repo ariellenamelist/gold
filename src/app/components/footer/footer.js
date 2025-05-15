@@ -109,7 +109,7 @@ export default function Footer() {
           </div>
 
           <div className="whatsapp-button">
-            <a href="https://wa.me/+917827545173">
+            <a href="https://wa.me/919991306689">
             <Image
                             className="img-fluid"
                             src="/images/wpi.png"
