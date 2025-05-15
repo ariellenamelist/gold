@@ -56,7 +56,7 @@ export default function Welcome() {
 						<a className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow" href="#">
 							<span className="elementor-button-content-wrapper">
 								
-								<span className="elementor-button-text">GET Gold365 ID</span>
+								<span className="elementor-button-text">Get Gold365 Login ID</span>
 							</span>
 						</a>
 					</div>	
