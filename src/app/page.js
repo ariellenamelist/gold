@@ -27,7 +27,7 @@ export default function Home() {
     <title>Welcome to gold365</title>
     <meta name="title" content="Welcome to gold365" />
     <meta name="description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now." />
-   
+    <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
     <div className={styles.pages}>
       <main className={styles.mains}>
 
