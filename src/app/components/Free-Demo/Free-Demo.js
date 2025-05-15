@@ -51,7 +51,7 @@ export default function FreeDemo() {
         href="#"
       >
         <span className="elementor-button-content-wrapper">
-          <span className="elementor-button-text">Get Gold365 Demo ID</span>
+          <span className="elementor-button-text">Get Gold365 Free Demo ID</span>
         </span>
       </a>
     </div>
