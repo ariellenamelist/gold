@@ -35,11 +35,11 @@ export default function HowtoRegister () {
       be done with:{" "}
     </p>
     <p>
-      <img src="images/box.jpg" className="img-fluid box-ic" /> UPI (Unified
+      <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> UPI (Unified
       Payments Interface). <br />
-      <img src="images/box.jpg" className="img-fluid box-ic" /> Mobile Wallets.{" "}
+      <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Mobile Wallets.{" "}
       <br />
-      <img src="images/box.jpg" className="img-fluid box-ic" /> Net Banking.
+      <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Net Banking.
     </p>
     <p>
       7. After paying, take a screenshot and send it to customer care on
@@ -53,7 +53,7 @@ export default function HowtoRegister () {
         href="#"
       >
         <span className="elementor-button-content-wrapper">
-          <span className="elementor-button-text">Get Your ID Now</span>
+          <span className="elementor-button-text">Let's Gold365 Sign-Up Now</span>
         </span>
       </a>
     </div>
@@ -103,7 +103,7 @@ export default function HowtoRegister () {
                     href="#"
                 >
                     <span className="elementor-button-content-wrapper">
-                    <span className="elementor-button-text">GET Gold365 ID</span>
+                    <span className="elementor-button-text">Get Gold365 Login ID</span>
                     </span>
                 </a>
                 </div>
@@ -132,11 +132,11 @@ export default function HowtoRegister () {
                 If you’re stuck at login, try this quick checklist:
                 </h2>
                 <p>
-                <img src="images/box.jpg" className="img-fluid box-ic" /> Check your
+                <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Check your
                 internet connection. Wi-Fi or mobile data—make sure it’s working. <br />
-                <img src="images/box.jpg" className="img-fluid box-ic" /> Double-check
+                <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Double-check
                 your username and password. There might be typo errors. <br />
-                <img src="images/box.jpg" className="img-fluid box-ic" /> Forgot your
+                <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Forgot your
                 password? There’s a Forgot Password link for a reason—use it.
                 </p>
                 <p>
@@ -148,7 +148,7 @@ export default function HowtoRegister () {
                     href="#"
                 >
                     <span className="elementor-button-content-wrapper">
-                    <span className="elementor-button-text">Get Your ID Now</span>
+                    <span className="elementor-button-text">Get Gold365 APK Download Now</span>
                     </span>
                 </a>
                 </div>
