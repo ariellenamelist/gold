@@ -28,7 +28,7 @@ export default function WhatisGold365() {
                         href="#"
                         >
                         <span className="elementor-button-content-wrapper">
-                            <span className="elementor-button-text">GET Gold365 ID</span>
+                            <span className="elementor-button-text">Get Gold365 Login ID</span>
                         </span>
                         </a>
                     </div>
@@ -41,7 +41,7 @@ export default function WhatisGold365() {
                         <Image
                             className="img-fluid"
                             src="/images/gold365-Desktop-Mob-Mockup-1024x670.webp"
-                            alt="gold365 Logo"
+                            alt="Welcome to Gold365"
                             width={555}
                             height={363}      
                             />
