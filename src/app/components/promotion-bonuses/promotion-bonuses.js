@@ -17,15 +17,15 @@ export default function Promotionbonuses() {
                     old user. Our main offers can be considered as:
                     </p>
                     <p>
-                    <img src="images/box.jpg" className="img-fluid box-ic" /> Welcome
+                    <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Welcome
                     Bonus <br />
-                    <img src="images/box.jpg" className="img-fluid box-ic" /> Loyalty
+                    <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Loyalty
                     Rewards <br />
-                    <img src="images/box.jpg" className="img-fluid box-ic" /> Seasonal
+                    <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Seasonal
                     Promos
                     </p>
                     <p>
-                    1. Welcome Bonuses: Join and you can win a welcome award once you
+                    <strong>1. Welcome Bonuses:</strong> Join and you can win a welcome award once you
                     make your first deposit. In most cases, we offered a 100% bonus
                     (but up to ₹10k). It simply means if you deposit ₹10k, you get
                     another ₹10k as a welcome bonus. So, now, you have a total of ₹20k
