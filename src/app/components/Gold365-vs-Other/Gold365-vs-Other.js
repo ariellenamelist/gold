@@ -95,7 +95,7 @@ export default function Gold365Other() {
                     href="#"
                     >
                     <span className="elementor-button-content-wrapper">
-                        <span className="elementor-button-text">GET Gold365 ID</span>
+                        <span className="elementor-button-text">Get Gold365 ID</span>
                     </span>
                     </a>
                 </div>
