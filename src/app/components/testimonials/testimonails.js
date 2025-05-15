@@ -51,7 +51,7 @@ export default function Testimonials() {
                 height={60}      
                 />
             </div>
-            Raja
+            Aman Sehrawat
           </div>
         </div>
 
@@ -73,7 +73,7 @@ export default function Testimonials() {
                 height={60}      
                 />
             </div>
-            Harsh Mehta
+            Rajat Malik
           </div>
         </div>
 
@@ -96,7 +96,7 @@ export default function Testimonials() {
                 height={60}      
                 />
             </div>
-            Shubham
+            Rahul Tripathi
           </div>
         </div>
       </Slider>
