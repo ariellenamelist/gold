@@ -29,14 +29,14 @@ export default function Home() {
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="google-site-verification" content="hVTkH20FZ7XH_FBAQPyUg58XRspTrx4_NpvbVAj3-TE" />
 
-    <!-- Google tag (gtag.js) -->
+    {/*<!-- Google tag (gtag.js) -->*/}
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-E8Y2Y6J9DB"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    gtag('config', 'G-E8Y2Y6J9DB');
+      gtag('config', 'G-E8Y2Y6J9DB');
     </script>
     
     <meta name="title" content="Welcome to gold365"/>
