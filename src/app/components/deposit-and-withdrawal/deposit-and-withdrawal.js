@@ -22,33 +22,33 @@ export default function DepositWithdrawal() {
         got a number of online payment options, and here are the steps:{" "}
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Log in to the
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Log in to the
         Gold365 account.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> On the top
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> On the top
         right corner and click on your customer ID.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Click on the
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Click on the
         “Deposits” button and enter the amount you want to add.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Select your
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Select your
         preferred payment method, such as UPI, credit card, debit card, net
         banking, etc.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> On the next
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> On the next
         page, enter your UPI ID/card details/net banking.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Complete the
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Complete the
         payment by confirming it by entering the UPI pin or OTP (in card
         transactions).
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> After
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> After
         successful payment, we credit your account instantly.
       </p>
       <p>
@@ -64,28 +64,28 @@ export default function DepositWithdrawal() {
         account.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Click your
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Click your
         Customer ID in the top right corner.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Now choose
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Now choose
         Withdrawal from the menu.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Type in the
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Type in the
         amount you want to withdraw.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Hit the
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Hit the
         Withdrawal button and choose your payout method.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> If you’re
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> If you’re
         doing it for the first time, you need to enter your UPI ID or bank
         details with the IFSC code.
       </p>
       <p>
-        <img src="images/box.jpg" className="img-fluid box-ic" /> Tap Confirm
+        <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" /> Tap Confirm
         Withdrawal
       </p>
       <p>
