@@ -36,7 +36,7 @@ export default function Promotionbonuses() {
                     you join us from referral links).
                     </p>
                     <p>
-                    2. Loyalty Rewards: We have a simple formula for this: Be regular
+                    <strong>2. Loyalty Rewards:</strong> We have a simple formula for this: Be regular
                     and win loyalty rewards. So, be regular and credit bonuses in your
                     account section weekly. You can use it to place new bets. Here are
                     a few items that are used to calculate your weekly loyalty
@@ -51,7 +51,7 @@ export default function Promotionbonuses() {
                     </li>
                     </ul>
                     <p>
-                    3. Seasonal Promotions: During cricket seasons, such as IPL and
+                    <strong>3. Seasonal Promotions:</strong> During cricket seasons, such as IPL and
                     festival seasons like Diwali, we usually give a one-time deal to
                     our users during this season.{" "}
                     </p>
