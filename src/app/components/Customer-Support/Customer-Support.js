@@ -26,16 +26,16 @@ export default function CustomerSupport() {
             </p>
             <p>Here’s how you can reach them:</p>
             <p>
-              <img src="images/box.jpg" className="img-fluid box-ic" />{" "}
+              <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" />{" "}
               <strong>Email:</strong> Drop a message at Gold365info@gmail.com.
             </p>
             <p>
-              <img src="images/box.jpg" className="img-fluid box-ic" />{" "}
+              <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" />{" "}
               <strong>Phone:</strong> The support number is listed on their
               Contact Us page.
             </p>
             <p>
-              <img src="images/box.jpg" className="img-fluid box-ic" />{" "}
+              <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" />{" "}
               <strong>WhatsApp (Recommended):</strong> Just tap WhatsApp Connect
               for quick help.
             </p>
