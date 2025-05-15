@@ -46,7 +46,7 @@ export default function Testimonials() {
               <Image
                 className="emoji"
                 src="/images/raja.jpg"
-                alt=""
+                alt="Aman Sehrawat"
                 width={60}
                 height={60}      
                 />
@@ -68,7 +68,7 @@ export default function Testimonials() {
               <Image
                 className="emoji"
                 src="/images/harsh.jpg"
-                alt=""
+                alt="Rajat Malik"
                 width={60}
                 height={60}      
                 />
@@ -91,7 +91,7 @@ export default function Testimonials() {
               <Image
                 className="emoji"
                 src="/images/shubham.webp"
-                alt=""
+                alt="Rahul Tripathi"
                 width={60}
                 height={60}      
                 />
