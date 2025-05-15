@@ -28,6 +28,16 @@ export default function Home() {
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="google-site-verification" content="hVTkH20FZ7XH_FBAQPyUg58XRspTrx4_NpvbVAj3-TE" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E8Y2Y6J9DB"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-E8Y2Y6J9DB');
+    </script>
     
     <meta name="title" content="Welcome to gold365"/>
     <meta name="description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now."/>
