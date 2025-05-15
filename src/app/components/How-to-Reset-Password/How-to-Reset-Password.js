@@ -60,7 +60,7 @@ export default function HowtoResetPassword() {
                 href="#"
               >
                 <span className="elementor-button-content-wrapper">
-                  <span className="elementor-button-text">Get Your ID Now</span>
+                  <span className="elementor-button-text">Let's Reset Gold365 Password</span>
                 </span>
               </a>
             </div>
