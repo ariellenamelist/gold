@@ -36,42 +36,42 @@ export default function Footer() {
                   <ul className="ul">
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Sky Exchange Id</span>
+                        <span className="anc">CricBet99</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Lord Exchange Id</span>
+                        <span className="anc">Laser247</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Tiger Exchange Id</span>
+                        <span className="anc">Play99Exch</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Silver Exchange Id</span>
+                        <span className="anc">Gold365</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Diamond Exchange Id</span>
+                        <span className="anc">WinBuzz247</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Radhe Exchange Id</span>
+                        <span className="anc">Fairplay</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">Goexch9 com</span>
+                        <span className="anc">FairDeal</span>
                       </a>
                     </li>
                     <li className="listing">
                       <a href="#">
-                        <span className="anc">gold365</span>
+                        <span className="anc">DaddyBet</span>
                       </a>
                     </li>
                   </ul>
