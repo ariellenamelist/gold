@@ -25,7 +25,7 @@ export default function WhatisGold365() {
                     <div className="text-left anc-tab">
                         <a
                         className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                        href="#"
+                        href="https://wa.me/918441068489"
                         >
                         <span className="elementor-button-content-wrapper">
                             <span className="elementor-button-text">Get Gold365 Login ID</span>
