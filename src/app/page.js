@@ -29,13 +29,13 @@ export default function Home() {
 
   return (
     <div>
-    <title>Welcome to Gold365 — Www.gold365.green</title>
+    <title>Welcome to Gold365 — Get Quick Gold365 Login ID today's</title>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     
-    <meta name="title" content="Welcome to Gold365 — Www.gold365.green"/>
-    <meta name="description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.green website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now."/>
+    <meta name="title" content="Welcome to Gold365 — Get Quick Gold365 Login ID today's"/>
+    <meta name="description" content="Gold365 is the world's largest gaming website. More than 3500+ sports games available daily on Gold365.green website. Get the best odds, instant deposit and withdrawal. 24/7 customer support and referral bonuses. Get Quick Gold365 Login ID today's."/>
     <meta name="keywords" content="welcome to gold365, gold365, gold365 login, gold365 login ID, gold365 ID, gold365 login ID and password, gold365 download apk, gold365 green, gold365 registration, gold365.green login link"/>
     <meta name="author" content="Gold365"/>
     <meta name="publisher" content="Gold365"/>
