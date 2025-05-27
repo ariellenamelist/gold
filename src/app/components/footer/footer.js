@@ -35,7 +35,7 @@ export default function Footer() {
                   </p>
                   <ul className="ul">
                     <li className="listing">
-                      <a href="#">
+                      <a href="https://www.cricbet99.vip/">
                         <span className="anc">CricBet99</span>
                       </a>
                     </li>
@@ -45,7 +45,7 @@ export default function Footer() {
                       </a>
                     </li>
                     <li className="listing">
-                      <a href="#">
+                      <a href="https://www.play99exch.co/">
                         <span className="anc">Play99Exch</span>
                       </a>
                     </li>
